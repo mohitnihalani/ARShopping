@@ -27,10 +27,8 @@ Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
 
 ## Screenshots
-<img src="/ScreenShots/AR-ScreenShots/ScreenShot1.png">
-<img src="/ScreenShots/Unity-Editors/ScreenShot3.png">
-<img src="/ScreenShots/Unity-Editors/ScreenShot5.png">
-<img src="/ScreenShots/Console-Metadata/ConsoleMD1.png">
+<img src="/ScreenShots/ARScreenShots/ScreenShot1.PNG">
+<img src="/ScreenShots/Console-Metadata/ScreenShot5.PNG">
 <img src="/ScreenShots/Console-Metadata/ConsoleMD2.png">
 <img src="/ScreenShots/Console-Models/ConsoleModel1.png">
 <img src="/ScreenShots/Console-Models/ConsoleModel2.png">
