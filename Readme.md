@@ -35,3 +35,6 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 <img src="/ScreenShots/Console-Models/ConsoleModel1.png">
 <img src="/ScreenShots/Console-Models/ConsoleModel2.png">
 
+
+Please contact at [here](mn2643@nyu.edu), if you want hologram model used in this project.
+
