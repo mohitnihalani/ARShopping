@@ -28,7 +28,7 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 
 ## Screenshots
 <img src="/ScreenShots/ARScreenShots/ScreenShot1.PNG">
-<img src="/ScreenShots/Console-Metadata/ScreenShot5.PNG">
+<img src="/ScreenShots/ARScreenShots/ScreenShot5.PNG">
 <img src="/ScreenShots/Console-Metadata/ConsoleMD2.png">
 <img src="/ScreenShots/Console-Models/ConsoleModel1.png">
 <img src="/ScreenShots/Console-Models/ConsoleModel2.png">
